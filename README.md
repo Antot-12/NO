@@ -1,10 +1,9 @@
 # 🚫 Say "No" Like a Pro
 
-<center>
+<p align="center">
+  <img src="./pics/banner.png" alt="NO banner" />
+</p>
 
-![NO banner](./pics/banner.png)
-
-</center>
 
 
 > **Need to politely reject a meeting? Decline a request? Dodge responsibilities?**
