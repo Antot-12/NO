@@ -13,4 +13,13 @@ export default defineConfig({
       },
     },
   },
+  build: {
+    rollupOptions: {
+      input: {
+        main: './index.html',
+      },
+    },
+    // Copy service worker to dist root
+    copyPublicDir: true,
+  },
 });
