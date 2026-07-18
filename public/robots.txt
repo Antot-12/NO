@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://antot-12.github.io/NO/sitemap.xml
