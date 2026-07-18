@@ -1,8 +1,6 @@
-# https://www.robotstxt.org/robotstxt.html
-User-agent: *
-Disallow: /assets/
-Allow: /
+# ads.txt file for antot-12.github.io
+# This site does not display advertisements
+# No authorized digital sellers
 
-# No ads on this site
-User-agent: Mediapartners-Google
-Disallow: /
+# Declaration: This website does not serve any ads
+# and is not part of any advertising network

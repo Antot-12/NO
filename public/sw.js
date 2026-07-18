@@ -1,9 +1,8 @@
 const CACHE_NAME = 'no-app-v1';
 const API_CACHE_NAME = 'no-api-v1';
 const ASSETS_TO_CACHE = [
-  '/',
-  '/index.html',
-  '/src/main.tsx',
+  '/NO/',
+  '/NO/index.html',
 ];
 
 // Install event - cache assets
